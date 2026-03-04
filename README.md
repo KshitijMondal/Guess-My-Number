@@ -20,6 +20,6 @@ index.html: The semantic structure of the game board.<br>
 style.css: The "Retro-Dark" theme and layout logic.<br>
 script.js: The engine behind the game logic, scoring, and highscore persistence.<br><br>
 🚀 Setup<br>
-1. Clone this repository.<br>
-2. Open index.html in any modern web browser.<br>
-3. Start guessing!<br>
+Clone this repository.<br>
+Open index.html in any modern web browser.<br>
+Start guessing!<br>
