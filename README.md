@@ -3,8 +3,8 @@
 A retro-styled arcade game where you test your luck and logic against the computer. Built with clean vanilla JavaScript and a nostalgic 8-bit aesthetic. <br><br>
 
 🎮 How to Play <br>
-1. The Secret: The computer picks a secret number between 1 and 20. <br>
-2. The Input: Type your guess into the box and hit the "Check!" button. <br><br>
+The Secret: The computer picks a secret number between 1 and 20. <br>
+The Input: Type your guess into the box and hit the "Check!" button. <br><br>
 The Clues:<br>
   "Too High!" 📈: Your guess is above the secret number.<br>
   "Too Low!" 📉: Your guess is below the secret number.<br>
